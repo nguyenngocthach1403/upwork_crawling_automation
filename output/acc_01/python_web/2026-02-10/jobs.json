@@ -1,0 +1,1222 @@
+[
+  {
+    "job_id": "2020595235025838988",
+    "title": "Scraping User Information on Kuiashou",
+    "posted_text": "yesterday",
+    "posted_minutes_ago": null,
+    "location": "Worldwide",
+    "description": "Hi there, We need to randomly select 1500 user IDs from Kuaishou with one characteristics: They have posted at least one video using any AI hashtags. After we filter out 1500 such users, we will collect three sets of information for the user: 1) An Excel file for all the 1500 users with their characteristics 2) An excel file for each of the 1500 users with their posting information and the user engagement 3) Download all the videos posted by these users. I will send you some samples to show the exact format for the excel files Please let me know if you are interested in writing a script to scrape the data automatically. Thanks!",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 150.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 150.0
+    },
+    "experience_level": "expert",
+    "skills": [],
+    "activities": {
+      "proposals": "15 to 20",
+      "last_viewed_by_client": "9 hours ago",
+      "interviewing": "4",
+      "invites_sent": "3",
+      "unanswered_invites": "1"
+    },
+    "url": "https://www.upwork.com/jobs/~022020595235025838988",
+    "client": {
+      "rating": "\n      5.00 of 9 reviews\n    ",
+      "location": "United States",
+      "posted_jobs": "32 jobs posted",
+      "hire_rate": "54% hire rate, 1 open job",
+      "total_hires": "19 hires, 8 active",
+      "total_spent": "$5.6Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2020544958326271275",
+    "title": "Web Scraping Specialist Needed for BuiltWith Projects",
+    "posted_text": "yesterday",
+    "posted_minutes_ago": null,
+    "location": "Worldwide",
+    "description": "We are seeking a skilled web scraping specialist to extract data from various websites using BuiltWith software. The ideal candidate will have experience in utilizing this tool efficiently to gather relevant insights. Your role will involve identifying target websites, executing scraping tasks, and ensuring data accuracy. If you have a strong background in web scraping and are familiar with BuiltWith, we’d love to hear from you!",
+    "job_type": "hourly",
+    "hourly_budget": {
+      "min": 3.0,
+      "max": 3.0
+    },
+    "fixed_budget": null,
+    "budget": {
+      "type": "hourly",
+      "min": 3.0,
+      "max": 3.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Scraping",
+      "Data Entry",
+      "Microsoft Excel",
+      "Lead Generation"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022020544958326271275",
+    "client": {
+      "rating": "\n      5.00 of 3 reviews\n    ",
+      "location": "IND",
+      "posted_jobs": "12 jobs posted",
+      "hire_rate": "34% hire rate, 4 open jobs",
+      "total_hires": "5 hires, 1 active",
+      "total_spent": "$97total spent"
+    }
+  },
+  {
+    "job_id": "2020726222336595355",
+    "title": "Data Scraping Expert Needed for IN SOS Websites and PDFs",
+    "posted_text": "yesterday",
+    "posted_minutes_ago": null,
+    "location": "Worldwide",
+    "description": "We are looking for a skilled Data Scraping Expert to extract data from various SOS websites and PDFs. (NJ, PA, MD, OH, FL, SC, NC). Need to work around Cloudflare. The ideal candidate will have experience in web scraping and data extraction techniques, with a strong understanding of handling different formats and structures of data. We need you to provide the script in PY so we can run the scraper locally and export the data to a database which we will connect our OpenAI to.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 500.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 500.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Entry",
+      "Data Scraping",
+      "Data Mining",
+      "Microsoft Excel"
+    ],
+    "activities": {
+      "proposals": "20 to 50",
+      "last_viewed_by_client": "yesterday",
+      "interviewing": "4",
+      "invites_sent": "9",
+      "unanswered_invites": "3"
+    },
+    "url": "https://www.upwork.com/jobs/~022020726222336595355",
+    "client": {
+      "rating": "\n      4.90 of 75 reviews\n    ",
+      "location": "United States",
+      "posted_jobs": "136 jobs posted",
+      "hire_rate": "77% hire rate, 3 open jobs",
+      "total_hires": "124 hires, 31 active",
+      "total_spent": "$187Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2020909104007560164",
+    "title": "Data Scraping & Excel Conversion for HS Baseball & Softball Programs",
+    "posted_text": "14 hours ago",
+    "posted_minutes_ago": 840,
+    "location": "Worldwide",
+    "description": "We're looking for a freelancer who's good with details to help us gather email addresses from social media, focusing on high school baseball and softball programs. You'll also need to take tournament books and turn them into tidy Excel files. If you've got experience with data scraping and data entry and can spot the little things that matter, we want to hear from you! If you’ve done this kind of work before, let’s chat!",
+    "job_type": "hourly",
+    "hourly_budget": {
+      "min": 8.0,
+      "max": 8.0
+    },
+    "fixed_budget": null,
+    "budget": {
+      "type": "hourly",
+      "min": 8.0,
+      "max": 8.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Microsoft Excel",
+      "Data Entry",
+      "Data Scraping",
+      "Data Mining"
+    ],
+    "activities": {
+      "proposals": "20 to 50",
+      "last_viewed_by_client": "7 hours ago",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022020909104007560164",
+    "client": {
+      "rating": "N/A",
+      "location": "United States",
+      "posted_jobs": "2 jobs posted",
+      "hire_rate": "0% hire rate, 1 open job",
+      "total_hires": "N/A",
+      "total_spent": "N/A"
+    }
+  },
+  {
+    "job_id": "2020747010125108635",
+    "title": "Data Collection & Entry Specialist Needed [Level: Any]",
+    "posted_text": "yesterday",
+    "posted_minutes_ago": null,
+    "location": "Worldwide",
+    "description": "We are looking for a detail-oriented individual to assist with a data scraping and collection project. The task involves extracting specific information from various websites and accurately filling in the required fields in a predetermined format. A strong understanding of web scraping tools and techniques is essential. If you thrive on data accuracy and have a knack for efficient data collection, we would love to hear from you!",
+    "job_type": "hourly",
+    "hourly_budget": {
+      "min": 8.0,
+      "max": 8.0
+    },
+    "fixed_budget": null,
+    "budget": {
+      "type": "hourly",
+      "min": 8.0,
+      "max": 8.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Scraping",
+      "Data Entry",
+      "Microsoft Excel",
+      "Accuracy Verification",
+      "List Building"
+    ],
+    "activities": {
+      "proposals": "10 to 15",
+      "last_viewed_by_client": "yesterday",
+      "interviewing": "6",
+      "invites_sent": "8",
+      "unanswered_invites": "1"
+    },
+    "url": "https://www.upwork.com/jobs/~022020747010125108635",
+    "client": {
+      "rating": "N/A",
+      "location": "India",
+      "posted_jobs": "1 job posted",
+      "hire_rate": "0% hire rate, 1 open job",
+      "total_hires": "N/A",
+      "total_spent": "N/A"
+    }
+  },
+  {
+    "job_id": "2021121953240935072",
+    "title": "Data Collection of Venture Capital Groups",
+    "posted_text": "29 minutes ago",
+    "posted_minutes_ago": 29,
+    "location": "Worldwide",
+    "description": "We are seeking a detail-oriented freelancer to compile a comprehensive database of Venture Capital Groups. The database should include essential information such as business name, contact name, their title, email address, and LinkedIn link. This project requires strong research skills and attention to detail to ensure accuracy and completeness. If you are experienced in data collection and have a knack for finding business contacts, we would love to hear from you! Their titles will need to be - managing director or managing partner or partner or CEO or cofounder or founder. The list must be filtered so that it is only VC groups that have an interest in categories that can include any of the following - lifestyle, consumer products, consumer services, media, gen z female or media or beauty. I want VC Groups from South Korea, Singapore or New Zealand and Australia.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 80.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 80.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Microsoft Excel",
+      "Data Entry",
+      "Company Research"
+    ],
+    "activities": {
+      "proposals": "20 to 50",
+      "last_viewed_by_client": "26 minutes ago",
+      "interviewing": "16",
+      "invites_sent": "30",
+      "unanswered_invites": "14"
+    },
+    "url": "https://www.upwork.com/jobs/~022021121953240935072",
+    "client": {
+      "rating": "\n      4.86 of 11 reviews\n    ",
+      "location": "Australia",
+      "posted_jobs": "12 jobs posted",
+      "hire_rate": "92% hire rate, 1 open job",
+      "total_hires": "13 hires, 0 active",
+      "total_spent": "$1.7Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2021075289294049921",
+    "title": "Hello",
+    "posted_text": "3 hours ago",
+    "posted_minutes_ago": 180,
+    "location": "Worldwide",
+    "description": "PDF DRM removal needed to unlock PDFs which I have purchased",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": null,
+    "budget": null,
+    "experience_level": "intermediate",
+    "skills": [
+      "Web Scraping",
+      "Data Scraping",
+      "Data Extraction",
+      "Data Mining",
+      "Data Entry",
+      "Data Collection",
+      "Web Crawling",
+      "Lead Generation",
+      "Prospect List",
+      "Email List",
+      "Market Research",
+      "Prospect Research",
+      "Selenium",
+      "Beautiful Soup",
+      "Python"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "1",
+      "invites_sent": "5",
+      "unanswered_invites": "4"
+    },
+    "url": "https://www.upwork.com/jobs/~022021075289294049921",
+    "client": {
+      "rating": "N/A",
+      "location": "Australia",
+      "posted_jobs": "1 job posted",
+      "hire_rate": "0% hire rate, 1 open job",
+      "total_hires": "N/A",
+      "total_spent": "N/A"
+    }
+  },
+  {
+    "job_id": "2021069444777779396",
+    "title": "Event Company Data Scraper",
+    "posted_text": "3 hours ago",
+    "posted_minutes_ago": 180,
+    "location": "Worldwide",
+    "description": "Hey Thanh, We are an events company based on Vancouver, BC, Canada. We are looking for someone to help us build a propspect list of 500+ event planners in Vancouver BC: Specfically in these cities North Vancouver, West Vancouver, Vancouver, Surrey, Burnaby, Richmond, Delta, Coquitlam, New Westminster,Port Moody, Port Coquitlam and Langley. The CSV should comprise of the companies name, address, phone number, email, first name, last name, job title, social media (if applicable - Linkedin, Instagram) We are looking to start at 500 companies and depending on the quality of the list we would want to do more. Would you be open to a flat rate per lead?",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": null,
+    "budget": null,
+    "experience_level": "intermediate",
+    "skills": [
+      "Python",
+      "Web Scraping",
+      "Beautiful Soup",
+      "Selenium",
+      "Data Extraction",
+      "Automation",
+      "Web Crawling",
+      "Data Scraping",
+      "Data Mining",
+      "Browser Automation",
+      "Data Entry",
+      "API Integration",
+      "Google Sheets",
+      "n8n",
+      "Google Chrome Extension"
+    ],
+    "activities": {
+      "proposals": "5 to 10",
+      "interviewing": "1",
+      "invites_sent": "1",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021069444777779396",
+    "client": {
+      "rating": "N/A",
+      "location": "Canada",
+      "posted_jobs": "N/A",
+      "hire_rate": "0% hire rate, 1 open job",
+      "total_hires": "N/A",
+      "total_spent": "N/A"
+    }
+  },
+  {
+    "job_id": "2021113580346923113",
+    "title": "Lead Research Specialist – Plumbing Companies (Google Ads Verification)",
+    "posted_text": "49 minutes ago",
+    "posted_minutes_ago": 49,
+    "location": "Worldwide",
+    "description": "Project Description: I need a researcher to build a verified lead list of 200 plumbing companies in Texas. Target Cities: Houston, Dallas, Austin, San Antonio, Fort Worth Required Columns (Google Sheet): - Company Name - Phone Number - City - Website URL - Google Ads Active? (Y/N) - Employee Count (estimated) - Notes Qualification Criteria A company is QUALIFIED only if it meets ALL of the following: Active Google Ads confirmed using Google's Ad Preview Tool (ads.google.com/home/tools/ad-preview/) — search \"[plumber] + [city]\" with location set to the company's city Minimum 3 employees (verify via LinkedIn company page, website team/about page, or Google reviews mentioning multiple technicians) Has a real website (not just a Google Business Profile) Independent or regional company — exclude national franchises (Mr. Rooter, Roto-Rooter, Benjamin Franklin, ARS) A company without confirmed Google Ads activity is disqualified regardless of size. Delivery Requirements Start with a 10-record test batch for approval before proceeding to the full 200 All 200 records must meet the qualification criteria above Deliver in Google Sheets with view access shared to my email No duplicates Phone numbers must be direct business lines, not call centers Budget: $50 fixed Payment released after final 200-record delivery and spot-check verification.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 50.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 50.0
+    },
+    "experience_level": "expert",
+    "skills": [
+      "Lead Generation",
+      "List Building",
+      "Market Research",
+      "Data Scraping",
+      "Data Mining"
+    ],
+    "activities": {
+      "proposals": "5 to 10",
+      "last_viewed_by_client": "29 minutes ago",
+      "interviewing": "2",
+      "invites_sent": "4",
+      "unanswered_invites": "2"
+    },
+    "url": "https://www.upwork.com/jobs/~022021113580346923113",
+    "client": {
+      "rating": "\n      0.00 of 0 reviews\n    ",
+      "location": "CAN",
+      "posted_jobs": "N/A",
+      "hire_rate": "100% hire rate, 1 open job",
+      "total_hires": "2 hires, 2 active",
+      "total_spent": "$863total spent"
+    }
+  },
+  {
+    "job_id": "2021088475547181252",
+    "title": "Automation Script Developer for CMS Content Sync & Link Replacement",
+    "posted_text": "2 hours ago",
+    "posted_minutes_ago": 120,
+    "location": "Worldwide",
+    "description": "I’m looking for an experienced developer to build an automation script to maintain and synchronize content between two websites using the same CMS (datalife engine ) 🎯 Project goals The script must work in two main stages: ✅ Stage 1 — Automatic dead-link replacement • Scan all existing posts on my website (several hundred) • Replace the download links in my posts (currently all links are dead) • Automatically find the matching content on a source website • Match entries based on: title + language + quality/version • Generate a detailed report of all updates performed (what was changed, before/after links, missing matches, errors) ✅ Stage 2 — Automatic import of missing posts • Detect posts that exist on the source website but not on my website • Automatically import: • Title • Content • Images • Categories / tags • Download links • Auto-publish the imported posts • Run on a schedule (cron/automatic sync) • The script must be easy to use (simple configuration + clear documentation) ⚙️ Technical requirements • Data retrieval via API / RSS / approved scraping (only methods allowed by the source website) • Handle protections cloudflare captcha and request limitations properly (rate limiting, retries, caching, proxy support if needed) • Robust logging + error handling + clear documentation",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 100.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 100.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "API",
+      "WordPress",
+      "HTML"
+    ],
+    "activities": {
+      "proposals": "5 to 10",
+      "last_viewed_by_client": "24 minutes ago",
+      "interviewing": "1",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021088475547181252",
+    "client": {
+      "rating": "\n      4.72 of 12 reviews\n    ",
+      "location": "Tunisia",
+      "posted_jobs": "33 jobs posted",
+      "hire_rate": "49% hire rate, 1 open job",
+      "total_hires": "17 hires, 1 active",
+      "total_spent": "$520total spent"
+    }
+  },
+  {
+    "job_id": "2021101957551297153",
+    "title": "Web Scraping Script for Self-Storage Facilities",
+    "posted_text": "1 hour ago",
+    "posted_minutes_ago": 60,
+    "location": "Worldwide",
+    "description": "We are seeking a skilled developer to create a script or application that can scrape specified self-storage domain names at scale (based on a csv file containing the list of domains), on demand, and at a determine frequency (eg. monthly). The script should automatically visit each domain, gather data, and return the total number of self-storage facilities listed on the domain. It needs to be able to handle: - figure out the actual number of locations that the company has - not just the number they say they have in their company description - distinguish between actual locations, and simply lists of suburbs which some companies do for SEO purposes - not double count facilities - websites in any language If you would like to test your ideas, here is a link to a Google search where you can get an idea of the types of companies this relates to: https://www.google.com/search?q=list+of+self+storage+facilities+in+the+world This project requires strong web scraping expertise and an understanding of data extraction techniques, including blending appropriate use of AI with custom logic to attain high accuracy results. If you have highly relevant experience, we'd love to hear from you. Please let us know how you would go about the task (at a high level), how long you think it would take you, and how much you would charge to get it done.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": null,
+    "budget": null,
+    "experience_level": "intermediate",
+    "skills": [
+      "Web Scraping",
+      "Beautiful Soup",
+      "Selenium",
+      "JavaScript",
+      "PHP",
+      "Python",
+      "Data Scraping",
+      "Data Mining",
+      "Scrapy",
+      "Artificial Intelligence"
+    ],
+    "activities": {
+      "proposals": "20 to 50",
+      "last_viewed_by_client": "1 hour ago",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021101957551297153",
+    "client": {
+      "rating": "\n      5.00 of 6 reviews\n    ",
+      "location": "Australia",
+      "posted_jobs": "9 jobs posted",
+      "hire_rate": "89% hire rate, 2 open jobs",
+      "total_hires": "9 hires, 3 active",
+      "total_spent": "$311Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2021097565747665001",
+    "title": "n8n Specialist Needed for Discord Lead Generation Pipeline",
+    "posted_text": "1 hour ago",
+    "posted_minutes_ago": 60,
+    "location": "Worldwide",
+    "description": "We are seeking an experienced n8n specialist to develop a comprehensive pipeline that scrapes messages from a Discord app in search of potential leads. The ideal candidate will utilize AI to enhance the lead identification process and ensure that results are efficiently stored for future use. This project requires meticulous attention to detail and a strong understanding of n8n workflows. If you are passionate about automation and data management, we'd love to hear from you. We will also require you to save the data appropriately. This is the first stage of a multi stage process/ project, so more opportunities can follow.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 20.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 20.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Lead Generation",
+      "Data Scraping",
+      "Data Entry",
+      "List Building",
+      "Data Mining"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021097565747665001",
+    "client": {
+      "rating": "N/A",
+      "location": "Pakistan",
+      "posted_jobs": "N/A",
+      "hire_rate": "0% hire rate, 1 open job",
+      "total_hires": "N/A",
+      "total_spent": "N/A"
+    }
+  },
+  {
+    "job_id": "2021087853885330049",
+    "title": "PDF Data Extraction and Automation Specialist",
+    "posted_text": "2 hours ago",
+    "posted_minutes_ago": 120,
+    "location": "Worldwide",
+    "description": "We are seeking a skilled professional to automate and streamline the process of creating branded submittals by extracting structured data from PDF documents. Initially focusing on the lighting industry, the solution should be scalable to accommodate various document-heavy sectors. The ideal candidate will implement a system that enhances accuracy and efficiency in data handling. If you have experience with PDF processing and automation, we want to hear from you!",
+    "job_type": "hourly",
+    "hourly_budget": {
+      "min": 15.0,
+      "max": 15.0
+    },
+    "fixed_budget": null,
+    "budget": {
+      "type": "hourly",
+      "min": 15.0,
+      "max": 15.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Integration",
+      "Web Scraping",
+      "JavaScript",
+      "Python",
+      "Data Scraping",
+      "Data Extraction",
+      "Microsoft Excel",
+      "Data Entry",
+      "Automation",
+      "PDF",
+      "Mechanical Design",
+      "Project Management Support",
+      "Compliance"
+    ],
+    "activities": {
+      "proposals": "20 to 50",
+      "last_viewed_by_client": "2 hours ago",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021087853885330049",
+    "client": {
+      "rating": "\n      5.00 of 1 review\n    ",
+      "location": "United States",
+      "posted_jobs": "4 jobs posted",
+      "hire_rate": "50% hire rate, 1 open job",
+      "total_hires": "2 hires, 1 active",
+      "total_spent": "$115total spent"
+    }
+  },
+  {
+    "job_id": "2021084883850090601",
+    "title": "Lead List for Cold Email",
+    "posted_text": "2 hours ago",
+    "posted_minutes_ago": 120,
+    "location": "Worldwide",
+    "description": "I need someone to build me a unique lead list for cold email. I’m looking for 150-300 leads. Emails must be verified and the list should contain: First name Last name Business email (verified) (bounce rate under 5%) Company name Company website Job title (any decision making title - Founder, Director, Managing Director, CEO etc) Industry: e-commerce Company size (employees): 5-15 Country: Australia Would also be ideal if you can verify the brand uses Klaviyo and Shopify. And known revenue of business is preferable if possible but not a deal breaker.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 20.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 20.0
+    },
+    "experience_level": "expert",
+    "skills": [
+      "Lead Generation",
+      "List Building",
+      "Prospect List",
+      "Data Scraping",
+      "Cold Email"
+    ],
+    "activities": {
+      "proposals": "5 to 10",
+      "last_viewed_by_client": "2 hours ago",
+      "hires": "1",
+      "interviewing": "3",
+      "invites_sent": "5",
+      "unanswered_invites": "2"
+    },
+    "url": "https://www.upwork.com/jobs/~022021084883850090601",
+    "client": {
+      "rating": "\n      0.00 of 0 reviews\n    ",
+      "location": "Australia",
+      "posted_jobs": "4 jobs posted",
+      "hire_rate": "50% hire rate, 1 open job",
+      "total_hires": "1 hire, 1 active",
+      "total_spent": "$100total spent"
+    }
+  },
+  {
+    "job_id": "2021082018410649705",
+    "title": "Data Collection: List of Wound Care Providers in Western U.S.",
+    "posted_text": "3 hours ago",
+    "posted_minutes_ago": 180,
+    "location": "Worldwide",
+    "description": "We are seeking a freelancer with a comprehensive list of wound care providers located in California, Nevada, Arizona, Washington, Oregon, Idaho, and Colorado. The final deliverable should include the name, phone number, and email address of each provider. Accuracy and attention to detail are paramount, as this information will be used for outreach purposes. If you have experience in data collection or working with healthcare databases, we would love to hear from you!",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 20.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 20.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Scraping",
+      "Company Research",
+      "Data Entry"
+    ],
+    "activities": {
+      "proposals": "10 to 15",
+      "last_viewed_by_client": "2 hours ago",
+      "interviewing": "2",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021082018410649705",
+    "client": {
+      "rating": "N/A",
+      "location": "United States",
+      "posted_jobs": "N/A",
+      "hire_rate": "0% hire rate, 1 open job",
+      "total_hires": "N/A",
+      "total_spent": "N/A"
+    }
+  },
+  {
+    "job_id": "2021077120754623910",
+    "title": "Develop Google Chrome Extension for Scraping Product Data",
+    "posted_text": "3 hours ago",
+    "posted_minutes_ago": 180,
+    "location": "Worldwide",
+    "description": "We are seeking a skilled developer to create a Google Chrome extension that can scrape product data from various shopping websites. The extension should efficiently gather and present product details, including prices, descriptions, and images. The ideal candidate will have experience with Chrome extension development and web scraping technologies. If you're passionate about building tools that enhance online shopping experiences, we want to hear from you!",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 5.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 5.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Google Chrome Extension",
+      "Data Scraping",
+      "JavaScript",
+      "Python"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021077120754623910",
+    "client": {
+      "rating": "\n      4.98 of 12 reviews\n    ",
+      "location": "India",
+      "posted_jobs": "26 jobs posted",
+      "hire_rate": "62% hire rate, 1 open job",
+      "total_hires": "16 hires, 1 active",
+      "total_spent": "$1Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2021050405498134724",
+    "title": "Web Scraper Maintenance & Updates",
+    "posted_text": "5 hours ago",
+    "posted_minutes_ago": 300,
+    "location": "Worldwide",
+    "description": "We are seeking a skilled freelancer to update and maintain our web scraper following recent changes to the source website. The ideal candidate should have experience with web scraping tools and must be able to efficiently troubleshoot and adapt the scraper to ensure continuous data extraction. Strong problem-solving skills and attention to detail are essential. If you are proficient in programming languages such as Python or JavaScript and have a solid understanding of web scraping best practices, we would love to hear from you! Relevant Skills: - Web Scraping - Python/JavaScript - Data Extraction - Troubleshooting - API Integration - HTML/CSS Knowledge",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": null,
+    "budget": null,
+    "experience_level": "intermediate",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "Python",
+      "Data Scraping",
+      "HTML"
+    ],
+    "activities": {
+      "proposals": "20 to 50",
+      "interviewing": "0",
+      "invites_sent": "1",
+      "unanswered_invites": "1"
+    },
+    "url": "https://www.upwork.com/jobs/~022021050405498134724",
+    "client": {
+      "rating": "\n      5.00 of 4 reviews\n    ",
+      "location": "Australia",
+      "posted_jobs": "9 jobs posted",
+      "hire_rate": "67% hire rate, 1 open job",
+      "total_hires": "6 hires, 1 active",
+      "total_spent": "$8.3Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2021034957023546380",
+    "title": "Python Backend Developer for Web Scraping Project",
+    "posted_text": "6 hours ago",
+    "posted_minutes_ago": 360,
+    "location": "Worldwide",
+    "description": "We are seeking an experienced Python Backend Developer to help us with a web scraping project. The ideal candidate will have a strong background in Python, as well as experience with web scraping techniques and managing Virtual Private Servers (VPS). You will be responsible for developing efficient scraping scripts, ensuring data integrity, and optimizing server performance. If you are passionate about data extraction and have a keen eye for detail, we'd love to hear from you!",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 500.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 500.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Python",
+      "Python Script",
+      "Data Scraping",
+      "API"
+    ],
+    "activities": {
+      "proposals": "20 to 50",
+      "last_viewed_by_client": "5 hours ago",
+      "interviewing": "10",
+      "invites_sent": "11",
+      "unanswered_invites": "4"
+    },
+    "url": "https://www.upwork.com/jobs/~022021034957023546380",
+    "client": {
+      "rating": "N/A",
+      "location": "United Kingdom",
+      "posted_jobs": "2 jobs posted",
+      "hire_rate": "0% hire rate, 1 open job",
+      "total_hires": "N/A",
+      "total_spent": "N/A"
+    }
+  },
+  {
+    "job_id": "2021128461336191172",
+    "title": "Data Collection of IT companies In USA",
+    "posted_text": "15 minutes ago",
+    "posted_minutes_ago": 15,
+    "location": "Worldwide",
+    "description": "We are seeking a detail-oriented freelancer to compile a comprehensive database of IT Companies The database should include essential information such as business name, contact name, their title, email address, and LinkedIn link. This project requires strong research skills and attention to detail to ensure accuracy and completeness. If you are experienced in data collection and have a knack for finding business contacts, we would love to hear from you! Their titles will need to be - managing director or managing partner or partner or CEO or cofounder or founder. We need only company ceo a nd founders. Total Leeds required for this project 5000 If you can do this job we can hear from you!",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 300.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 300.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Scraping",
+      "Data Mining",
+      "Data Entry",
+      "Microsoft Excel",
+      "Company Research",
+      "Lead Generation"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "last_viewed_by_client": "11 minutes ago",
+      "interviewing": "1",
+      "invites_sent": "1",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021128461336191172",
+    "client": {
+      "rating": "N/A",
+      "location": "Pakistan",
+      "posted_jobs": "1 job posted",
+      "hire_rate": "0% hire rate, 2 open jobs",
+      "total_hires": "N/A",
+      "total_spent": "N/A"
+    }
+  },
+  {
+    "job_id": "2021082965508439012",
+    "title": "QUICK MONEY: Browser Automation Studio Expert Needed",
+    "posted_text": "3 hours ago",
+    "posted_minutes_ago": 180,
+    "location": "Worldwide",
+    "description": "===========BUDGET IS JUST A PLACEHOLDER AT THE MOMENT============ I have paid more than 107k+ USD to freelancers in last few months. I have worked with more than 130 developers here and currently working with 130 developers. I need someone who understands browser fingerprinting, stealth plugins, and how to mimic real user behavior in automation frameworks Browser Automation Studio. Your task will be to diagnose what’s causing the automation to fail and recommend stable solutions.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 30.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 30.0
+    },
+    "experience_level": "entry level",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Automation",
+      "Data Scraping",
+      "Node.js",
+      "Puppeteer",
+      "Browser Automation"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021082965508439012",
+    "client": {
+      "rating": "\n      4.78 of 212 reviews\n    ",
+      "location": "India",
+      "posted_jobs": "957 jobs posted",
+      "hire_rate": "42% hire rate, 26 open jobs",
+      "total_hires": "496 hires, 125 active",
+      "total_spent": "$107Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2020702789631744231",
+    "title": "Data Scraping of Australian Agency directory",
+    "posted_text": "yesterday",
+    "posted_minutes_ago": null,
+    "location": "Worldwide",
+    "description": "Scrape the businesses that are publicly available on https://clutch.co/au/agencies/digital-marketing. . The goal is to extract 2 key decision maker contact per company, not generic business emails, to create an email campaign/nurture sequence. $0.10 per lead as the starting cost. Funds will be released based on total quality contacts given. Need quick turnaround. Thanks!",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 400.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 400.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Scraping",
+      "Lead Generation"
+    ],
+    "activities": {
+      "proposals": "20 to 50",
+      "last_viewed_by_client": "10 hours ago",
+      "hires": "1",
+      "interviewing": "0",
+      "invites_sent": "1",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022020702789631744231",
+    "client": {
+      "rating": "\n      5.00 of 9 reviews\n    ",
+      "location": "Australia",
+      "posted_jobs": "22 jobs posted",
+      "hire_rate": "91% hire rate, 1 open job",
+      "total_hires": "20 hires, 9 active",
+      "total_spent": "$13Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2021150757729336217",
+    "title": "Web Scraper Development for Edinet Updates",
+    "posted_text": "2 minutes ago",
+    "posted_minutes_ago": 2,
+    "location": "Worldwide",
+    "description": "We are seeking a skilled developer to create a web scraper for the Edinet website (https://disclosure2.edinet-fsa.go.jp/week0020.aspx) The end product is a daily update, in English, providing a summary of any new substantial shareholder filings from a list of investment funds (using a list of identifier codes) that will be provided, with links to the filings. Steps should be something like: 1/ check Edinet website for each fund's filings (each has a unique entity code) 2/ download Japanese language filings 3/ Translate to english and summerize 4/ compile into daily update Should tap the official Edinet API. Output should look like this: Date of Filing: xx-xx-2026 Tuesday Filing #1 Filer: Strategic Capital, Inc. Company: 4189 KH Neochem Co Ltd Current Own.: 7.85 Last Reported Own.: 5.49 VWAP: 2566 (+5% from close) PDF Link: xxx Filing #2 Date of Filing: xx-xx-2026 Monday Filing #1 Filer: Strategic Capital, Inc. Company: 4189 KH Neochem Co Ltd Current Own.: 7.85 Last Reported Own.: 5.49 VWAP: 2566 (% from close) PDF Link: xxx Filing #2",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 100.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 100.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "PHP",
+      "Python",
+      "JavaScript",
+      "Data Scraping"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021150757729336217",
+    "client": {
+      "rating": "\n      0.00 of 0 reviews\n    ",
+      "location": "USA",
+      "posted_jobs": "3 jobs posted",
+      "hire_rate": "34% hire rate, 1 open job",
+      "total_hires": "1 hire, 1 active",
+      "total_spent": "$154total spent"
+    }
+  },
+  {
+    "job_id": "2021151427609563777",
+    "title": "Data Automation / B2B Lead Generation",
+    "posted_text": "12 minutes ago",
+    "posted_minutes_ago": 12,
+    "location": "Worldwide",
+    "description": "We are looking for a results-focused B2B lead generation specialist with strong skills in data research, enrichment, and automation. This role is about scale, precision, and clean data. Output over excuses. Responsibilities: • B2B lead research based on clearly defined ICP criteria • Data scraping and structured data collection from multiple online sources • Data enrichment (company details, industry, size, contacts) • Email verification and data cleaning • Building and maintaining clean, structured lead databases • Automating lead workflows from research to outreach • Ongoing data validation, deduplication, and quality control Requirements: • Proven experience in B2B lead generation at scale • Strong understanding of data accuracy and hygiene • Experience with automation workflows and data handling • Comfortable working with spreadsheets, databases, and logic-based processes • Ability to follow precise instructions and deliver consistently • Independent, reliable, and results-oriented Nice to Have: • Experience with cold outreach workflows • CRM familiarity • Understanding of GDPR-compliant data handling (EU focus) Deliverables: • High-quality, verified B2B lead lists matching ICP requirements • Automated and documented lead workflows • Consistent, measurable output How to Apply: • Describe your lead generation process • List the types of tools and methods you use • Share concrete results from past work (numbers, scale, accuracy) This is a performance-based role. Clean data and execution matter.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": null,
+    "budget": null,
+    "experience_level": "intermediate",
+    "skills": [
+      "Lead Generation",
+      "Data Entry",
+      "List Building"
+    ],
+    "activities": {
+      "proposals": "5 to 10",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021151427609563777",
+    "client": {
+      "rating": "\n      4.75 of 256 reviews\n    ",
+      "location": "Germany",
+      "posted_jobs": "179 jobs posted",
+      "hire_rate": "82% hire rate, 5 open jobs",
+      "total_hires": "715 hires, 133 active",
+      "total_spent": "$382Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2021114273609197325",
+    "title": "Data Processing with pyhon, AI and excel",
+    "posted_text": "3 hours ago",
+    "posted_minutes_ago": 180,
+    "location": "Worldwide",
+    "description": "there is a simple weekly task I'd like you to do... it just requires clicking some buttons and using somple AI. you will be paid $1.5 per week. should take no more than 30 mins of your time. start your proposal with 'Nikola, hi...' otherwise your proposla will not be considered. see attached file that explains what you need to do... when done I will send you the google drive folder with all of the files.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 5.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 5.0
+    },
+    "experience_level": "entry level",
+    "skills": [
+      "Visual Basic for Applications",
+      "Microsoft Excel",
+      "Data Entry",
+      "Data Analysis",
+      "Python",
+      "Microsoft Excel",
+      "Visual Basic for Applications",
+      "Python"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021114273609197325",
+    "client": {
+      "rating": "\n      4.67 of 47 reviews\n    ",
+      "location": "United Kingdom",
+      "posted_jobs": "78 jobs posted",
+      "hire_rate": "97% hire rate, 1 open job",
+      "total_hires": "92 hires, 15 active",
+      "total_spent": "$3.5Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2021168126137181606",
+    "title": "I need lead list of contractors pulled permits",
+    "posted_text": "7 minutes ago",
+    "posted_minutes_ago": 7,
+    "location": "Worldwide",
+    "description": "Hello, I need a lead list of contractors who pulled permits starting in the state of Virginia USA. The information is public. There are websites with this information. Contact for specific job type. I need contact information of the contractor who is doing the work and address where the work is taking place, etc.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": null,
+    "budget": null,
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Entry",
+      "List Building",
+      "Data Collection",
+      "Google Sheets",
+      "Data Mining",
+      "Data Scraping",
+      "Virtual Assistance",
+      "Lead Generation",
+      "LinkedIn Lead Generation",
+      "Prospect List",
+      "B2B Lead Generation",
+      "Social Media Lead Generation",
+      "Real Estate Lead Generation",
+      "Data Extraction",
+      "Email List"
+    ],
+    "activities": {
+      "proposals": "5 to 10",
+      "last_viewed_by_client": "4 minutes ago",
+      "interviewing": "4",
+      "invites_sent": "8",
+      "unanswered_invites": "4"
+    },
+    "url": "https://www.upwork.com/jobs/~022021168126137181606",
+    "client": {
+      "rating": "\n      4.96 of 12 reviews\n    ",
+      "location": "USA",
+      "posted_jobs": "68 jobs posted",
+      "hire_rate": "48% hire rate, 13 open jobs",
+      "total_hires": "44 hires, 19 active",
+      "total_spent": "$2.8Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2021167981932313497",
+    "title": "OCR Solution Development for PDF Processing",
+    "posted_text": "10 minutes ago",
+    "posted_minutes_ago": 10,
+    "location": "Worldwide",
+    "description": "We are seeking an expert to develop an OCR solution using Microsoft technologies to efficiently process 30,000 PDF documents per month. The ideal candidate will have experience in implementing OCR systems and optimizing document processing workflows. Your expertise will help us automate data extraction and enhance our document management capabilities. Please provide examples of similar projects you have completed and your approach to handling high-volume document processing.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": null,
+    "budget": null,
+    "experience_level": "expert",
+    "skills": [
+      "OCR Algorithm",
+      "Tesseract OCR",
+      "Java",
+      "Python",
+      "PDF"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021167981932313497",
+    "client": {
+      "rating": "\n      4.74 of 55 reviews\n    ",
+      "location": "Brazil",
+      "posted_jobs": "207 jobs posted",
+      "hire_rate": "42% hire rate, 4 open jobs",
+      "total_hires": "90 hires, 5 active",
+      "total_spent": "$9Ktotal spent"
+    }
+  },
+  {
+    "job_id": "2021124326282995110",
+    "title": "Researcher Needed for Canada Job Titles Contact Information",
+    "posted_text": "3 hours ago",
+    "posted_minutes_ago": 180,
+    "location": "Worldwide",
+    "description": "**Job Title: Research Specialist for Contact Information Gathering** We are looking for an experienced researcher to assist us in collecting contact information for specific job titles across various companies in Canada. You will receive a list of organizations, and your primary responsibility will be to identify and compile accurate contact details, including phone numbers and email addresses. A keen eye for detail and the ability to efficiently gather precise information are essential for success in this role. If you have a background in research, data entry, or lead generation, we encourage you to apply and share your relevant experience with us. **Key Qualifications:** - Proficient in online research techniques - Strong data collection skills - Experience in lead generation - High attention to detail - Familiarity with Excel or Google Sheets Happy to pay $0.05 to $0.07 per valid lead basis.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 5.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 5.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Entry",
+      "Company Research",
+      "Contact List"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021124326282995110",
+    "client": {
+      "rating": "\n      5.00 of 4 reviews\n    ",
+      "location": "India",
+      "posted_jobs": "13 jobs posted",
+      "hire_rate": "24% hire rate, 1 open job",
+      "total_hires": "5 hires, 0 active",
+      "total_spent": "$433total spent"
+    }
+  },
+  {
+    "job_id": "2021173738055169233",
+    "title": "Lead Generation Specialist needed to find academic contacts",
+    "posted_text": "11 minutes ago",
+    "posted_minutes_ago": 11,
+    "location": "Worldwide",
+    "description": "I’m building a fresh outreach database and need your help gathering verified contact details for academics in Aeronautics and Astronautics. The focus is on Europe, Asia, and the Middle East, so please concentrate your research on universities, research institutes, and scholarly societies within those regions. The core of the job is online research: finding each scholar’s full name and professional email, then adding the institution they work for and the country where that institution is located. Accuracy matters more than quantity; I’ll be checking deliverables against institutional directories and bounce-testing emails. Please work in a shared Google Sheet (or Excel if you prefer). Each row should contain: • Full name • Professional email address (no generic “info@” or “contact@”) • Discipline (Aeronautics, Astronautics) • Institution name • Country • Source URL for verification Before you begin, tell me roughly how many unique, validated contacts you can collect within your proposed timeline. A short sample of 10-15 entries will act as the first milestone so we can confirm format and quality.",
+    "job_type": "hourly",
+    "hourly_budget": {
+      "min": 10.0,
+      "max": 10.0
+    },
+    "fixed_budget": null,
+    "budget": {
+      "type": "hourly",
+      "min": 10.0,
+      "max": 10.0
+    },
+    "experience_level": "expert",
+    "skills": [
+      "List Building",
+      "Microsoft Excel",
+      "Accuracy Verification",
+      "Lead Generation"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021173738055169233",
+    "client": {
+      "rating": "N/A",
+      "location": "United Kingdom",
+      "posted_jobs": "N/A",
+      "hire_rate": "0% hire rate, 1 open job",
+      "total_hires": "N/A",
+      "total_spent": "N/A"
+    }
+  },
+  {
+    "job_id": "2021186271912633766",
+    "title": "Market Research & Business Data Collection",
+    "posted_text": "2 minutes ago",
+    "posted_minutes_ago": 2,
+    "location": "Worldwide",
+    "description": "I’m looking for a detail-oriented freelancer to help with a market research and data collection project. The goal is to build a clean database of small and mid-size U.S. businesses across several local service industries. This is a one-time project with the potential for ongoing work if the quality is good. Project Scope Collect and compile a list of U.S.-based businesses across the following industries: • Dental practices • Chiropractors • Home service companies (roofing, HVAC, plumbing, etc.) • Restaurants • Medspas, salons, gyms and similar local businesses You may use tools such as Google Maps, business directories, Apollo, Clay, or similar research tools. Required Data Fields Please provide the data in a clean CSV or Google Sheet with the following columns: • Business Name • Website URL • Business Contact Email (publicly available) • Phone Number (if available) • City • State Data Quality Requirements • Businesses must be USA-based • Emails must be publicly listed business contact emails from company websites or directories • No generic catch-all emails when possible (info@, contact@, support@) • No LinkedIn profile scraping • Data should be recent, accurate, and well formatted Deliverable A clean, well-organized spreadsheet that can be easily imported into a CRM or email platform. Ideal Freelancer Someone experienced with: • Online research • Data mining / data enrichment • Building business databases • Attention to detail and accuracy If you’ve done similar data research projects, please share examples of past work.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 50.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 50.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Lead Generation"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "last_viewed_by_client": "52 seconds ago",
+      "interviewing": "0",
+      "invites_sent": "1",
+      "unanswered_invites": "1"
+    },
+    "url": "https://www.upwork.com/jobs/~022021186271912633766",
+    "client": {
+      "rating": "\n      5.00 of 2 reviews\n    ",
+      "location": "USA",
+      "posted_jobs": "4 jobs posted",
+      "hire_rate": "75% hire rate, 3 open jobs",
+      "total_hires": "3 hires, 1 active",
+      "total_spent": "$280total spent"
+    }
+  },
+  {
+    "job_id": "2021186023127492006",
+    "title": "Data analysis, processing/scraping and migration",
+    "posted_text": "3 minutes ago",
+    "posted_minutes_ago": 3,
+    "location": "Worldwide",
+    "description": "We are seeking a skilled Data Mining & Web Scraping Specialist to collect, extract, and structure data from various online sources. The ideal candidate will have strong experience in web scraping, data processing, and automation, and will be responsible for delivering clean, reliable, and well-structured datasets for business and analytical use. Key Responsibilities Extract large volumes of data from websites, web applications, and online platforms Develop and maintain web scrapers and data mining scripts Handle dynamic websites, pagination, authentication, and anti-bot measures Clean, validate, and structure raw data into usable formats (CSV, JSON, database)",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 120.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 120.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Microsoft Excel",
+      "Data Mining",
+      "Data Scraping",
+      "Data Migration",
+      "Data Entry"
+    ],
+    "activities": {
+      "proposals": "Less than 5",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021186023127492006",
+    "client": {
+      "rating": "N/A",
+      "location": "Australia",
+      "posted_jobs": "1 job posted",
+      "hire_rate": "0% hire rate, 1 open job",
+      "total_hires": "N/A",
+      "total_spent": "N/A"
+    }
+  },
+  {
+    "job_id": "2021182603602315464",
+    "title": "B2B Data Infrastructure & Enrichment Specialist",
+    "posted_text": "17 minutes ago",
+    "posted_minutes_ago": 17,
+    "location": "Worldwide",
+    "description": "We are looking for a B2B Data Infrastructure & Enrichment Specialist to design, build, and maintain a scalable system for continuous B2B data acquisition and management. This is not a one-off list building role. You will be responsible for creating and managing an end-to-end data supply chain that fuels our outbound marketing, sales outreach, and growth initiatives. You will play a key role in ensuring our teams always have access to accurate, enriched, and highly targeted prospect data aligned with our Ideal Customer Profiles (ICP). What You’ll Be Responsible For - Data Infrastructure & Systems - Design and implement scalable infrastructure for ongoing B2B data collection - Build systems that allow us to turn data collection and enrichment workflows on/off as required - Develop repeatable processes for sourcing, storing, and updating prospect data - Identify and integrate data tools, APIs, and automation platforms where needed - Data Sourcing & List Development - Source broad, high-volume prospect datasets aligned with defined ICPs - Build initial data pools across target industries and decision-maker roles - Continuously expand and improve data coverage across new markets and sectors Enrich datasets with key attributes such as: - Contact information - Company firmographics - Technographic data - Intent and behavioural signals Segment data to support multi-channel outreach strategies including email, paid media, and sales engagement Maintain high data accuracy and deliverability standards Data Quality & Optimisation - Monitor data performance and accuracy - Identify and remove low-quality or duplicate records - Continuously refine targeting criteria to improve outreach results - Work closely with marketing and sales teams to optimise data performance Essential Skills & Experience - Experience sourcing and building B2B prospect databases - Strong understanding of ICP development and targeting strategy - Experience with data enrichment platforms and contact verification tools - Knowledge of CRM and sales engagement platforms - Strong analytical and problem-solving skills - Ability to design scalable and repeatable data processes Highly Desirable - Experience building automated data workflows - Familiarity with scraping tools, APIs, or automation platforms - Understanding of outbound sales and marketing data requirements - Experience working with multi-channel outreach datasets What Success Looks Like in This Role - A scalable, controllable data acquisition infrastructure - Consistent supply of high-quality, enriched B2B prospect data - Improved targeting accuracy and outreach performance - Reliable data pipelines that support growth across multiple campaigns Respond with \"Convrsion\" at the top of your proposal so we know you read this thouroughly.",
+    "job_type": "hourly",
+    "hourly_budget": {
+      "min": 10.0,
+      "max": 10.0
+    },
+    "fixed_budget": null,
+    "budget": {
+      "type": "hourly",
+      "min": 10.0,
+      "max": 10.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Scraping",
+      "Lead Generation",
+      "Data Entry",
+      "List Building",
+      "Data Segmentation"
+    ],
+    "activities": {
+      "proposals": "5 to 10",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021182603602315464",
+    "client": {
+      "rating": "\n      5.00 of 10 reviews\n    ",
+      "location": "United Arab Emirates",
+      "posted_jobs": "9 jobs posted",
+      "hire_rate": "100% hire rate, 1 open job",
+      "total_hires": "24 hires, 10 active",
+      "total_spent": "$47Ktotal spent"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "job_id": "2021600316147409303",
+    "title": "Data Extraction from Image Files to Google Sheets",
+    "posted_text": "8 minutes ago",
+    "posted_minutes_ago": 8,
+    "location": "Worldwide",
+    "description": "I am looking for someone who can help me automate the following: Image uploaded of an A4 Document Document is parsed and the required data extracted The data is put into a Google sheet in a set format. You can see a sample image that contains the data we need. There are around 20/30 document types/templates, all very similar but with data in slightly different locations, named slightly differently, in a different order, etc. So we'll need extraction templates/prompts for each document type. I am currently doing this manually using some AI/LLM stuff to extract the data, but this requires me to copy it into sheets, and fix some errors. I need it automating so it's upload document, specifcy which one it is, data is pushed to a google sheet. Happy to use AI/LLM or some type of programmatic parsing. Please note this topic is gambling related so some religions may not be comfortable working on it. If you use any sort of AI garbage in your application, it will be ignored. Budget is negotiable once we have got the full scope of work. Thanks.",
+    "job_type": "fixed",
+    "hourly_budget": null,
+    "fixed_budget": 300.0,
+    "budget": {
+      "type": "fixed",
+      "amount": 300.0
+    },
+    "experience_level": "expert",
+    "skills": [
+      "API Integration",
+      "Data Integration",
+      "Data Extraction",
+      "Google Sheets"
+    ],
+    "activities": {
+      "proposals": "5 to 10",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021600316147409303",
+    "client": {
+      "rating": "\n      5.00 of 119 reviews\n    ",
+      "location": "United Kingdom",
+      "posted_jobs": "135 jobs posted",
+      "hire_rate": "95% hire rate, 2 open jobs",
+      "total_hires": "157 hires, 14 active",
+      "total_spent": "$48Ktotal spent"
+    }
+  }
+]

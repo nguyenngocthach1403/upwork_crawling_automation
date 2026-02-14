@@ -1,0 +1,17 @@
+{
+  "Data Scraping": {
+    "status": "RUNNING",
+    "retry": 0,
+    "updated_at": "2026-02-10T23:55:12.005041"
+  },
+  "Scraping": {
+    "status": "RUNNING",
+    "retry": 0,
+    "updated_at": "2026-02-10T23:27:12.531747"
+  },
+  "Data extraction": {
+    "status": "DONE",
+    "retry": 0,
+    "updated_at": "2026-02-10T22:51:05.638037"
+  }
+}

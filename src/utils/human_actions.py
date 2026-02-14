@@ -188,3 +188,48 @@ class HumanActions:
         # pause sau khi gõ xong (rất quan trọng)
         self._human_sleep(0.4, 1.2)
 
+    def human_smooth_scroll(
+        self,
+        total_distance=None,
+        min_distance=1200,
+        max_distance=3500,
+        min_step=12,
+        max_step=45,
+        min_delay=0.008,
+        max_delay=0.02
+    ):
+        """
+        Scroll tốc độ người thật trên Upwork
+        ~2–3s / 3000px
+        """
+
+        if total_distance is None:
+            total_distance = random.randint(min_distance, max_distance)
+
+        steps = random.randint(28, 55)
+        current = 0
+
+        for i in range(steps):
+            progress = i / steps
+
+            # easing nhẹ: đầu chậm – giữa nhanh – cuối chậm
+            ease = 0.6 + 0.4 * math.sin(progress * math.pi)
+
+            step = int(ease * random.randint(min_step, max_step))
+            step = max(step, 8)
+
+            if current + step > total_distance:
+                step = total_distance - current
+
+            self.page.mouse.wheel(0, step)
+            current += step
+
+            time.sleep(random.uniform(min_delay, max_delay))
+
+            # pause giống đang quét mắt qua job
+            if random.random() < 0.1:
+                time.sleep(random.uniform(0.25, 0.7))
+
+            if current >= total_distance:
+                break
+

@@ -13,6 +13,11 @@ def strategy_home_direct(page, keyword):
     while is_in_viewport(search_locator) is False:
         search_locator.scroll_into_view_if_needed()
 
+    if is_in_viewport(search_locator) is False:
+        raise Exception("Không tìm thấy search input để nhập từ khóa")
+    
+    # if not wait_for_action(lambda: {search_locator.get_attribute('aria-expanded') == 'true'}, human_action.human_click(search_locator), timeout=30, interval=5):
+    #     raise Exception("Không tìm thấy search input để nhập từ khóa")
     human_action.human_click(search_locator)
     human_action._human_sleep(0.2, 0.5)
     human_action.human_type(keyword)

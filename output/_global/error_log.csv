@@ -1,0 +1,1884 @@
+timestamp,account,platform,keyword,stage,error_type,error_message
+2026-02-10T14:28:14.965982,acc_01,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-10T14:32:11.838261,acc_01,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-10T14:37:04.622592,acc_01,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-10T14:43:28.535738,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T14:54:13.389031,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T14:54:57.210943,acc_01,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-10T14:58:59.696752,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+    - waiting for"" https://www.upwork.com/nx/search/jobs/?q=Data%20Scraping"" navigation to finish...
+    - navigated to ""https://www.upwork.com/nx/search/jobs/?q=Data%20Scraping""
+"
+2026-02-10T15:06:48.565973,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T16:17:57.848320,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T16:31:09.241686,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T16:43:28.996890,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T16:55:24.138601,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T17:19:40.446111,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T17:32:26.670773,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T17:45:32.880588,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T18:09:14.752504,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+    - waiting for"" https://www.upwork.com/nx/search/jobs/?q=Data%20Scraping"" navigation to finish...
+    - navigated to ""https://www.upwork.com/nx/search/jobs/?q=Data%20Scraping""
+"
+2026-02-10T18:37:31.706882,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T18:40:13.775345,acc_01,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T20:27:53.757892,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-10T20:30:10.951176,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T20:31:09.776346,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T20:31:53.188105,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-10T20:32:58.052926,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T20:33:55.292294,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T20:34:35.937653,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-10T20:35:42.440209,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T20:53:06.798560,acc_0001,python_web,,search,ConnectTimeout,"HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8540621108:AAGr7mWnavHdgR5Ox5Sb-uY0vA1W5tHgxng/sendMessage (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.telegram.org', port=443) at 0x221acbcd310>, 'Connection to api.telegram.org timed out. (connect timeout=10)'))"
+2026-02-10T20:54:04.709341,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-10T20:54:53.138762,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-10T20:55:41.796438,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-10T20:56:31.568229,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-10T20:58:12.433715,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-10T21:31:08.546287,acc_0001,python_web,,search,Exception,Không tìm thấy Navigator trở về trang chủ!
+2026-02-10T21:31:40.787654,acc_0001,python_web,,search,TypeError,'NoneType' object is not callable
+2026-02-10T21:33:05.040193,acc_0001,python_web,,search,TypeError,'NoneType' object is not callable
+2026-02-10T21:33:29.040741,acc_0001,python_web,,search,TypeError,'NoneType' object is not callable
+2026-02-10T21:40:34.644100,acc_0001,python_web,,search,TypeError,'NoneType' object is not callable
+2026-02-10T21:41:44.384690,acc_0001,python_web,,search,TypeError,'NoneType' object is not callable
+2026-02-10T21:42:09.221745,acc_0001,python_web,,search,TypeError,'NoneType' object is not callable
+2026-02-10T23:02:07.860651,acc_0001,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-10T23:03:22.528774,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T23:04:02.125465,acc_0001,python_web,,search,Exception,Không tìm thấy Navigator trở về trang chủ!
+2026-02-10T23:26:20.389844,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-10T23:51:30.454157,acc_0001,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-10T23:53:15.443478,acc_0001,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-10T23:56:53.963204,acc_0001,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-11T00:02:14.787361,acc_0001,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-11T06:39:31.678568,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-11T06:40:30.150074,acc_0001,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-11T06:43:06.416845,acc_0001,python_web,,search,ConnectionError,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2026-02-11T07:53:04.430987,acc_0001,python_web,,search,TypeError,TelegramNotifier.format_job_message() takes 1 positional argument but 2 were given
+2026-02-11T07:56:59.485563,acc_0001,python_web,,search,TypeError,TelegramNotifier.format_job_message() takes 1 positional argument but 2 were given
+2026-02-11T12:41:29.958413,acc_0001,python_web,,search,IndexError,list index out of range
+2026-02-11T12:51:17.558987,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021461267222341030']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021461267222341030"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021461267222341030"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are looking for an experienced data scraping s…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are looking for an experienced data scraping s…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p tabindex=""0"" data-v-7961f0b4="""" class=""text-light-on-muted m-0"">↵    Worldwide↵  </p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are looking for an experienced data scraping s…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are looking for an experienced data scraping s…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p tabindex=""0"" data-v-7961f0b4="""" class=""text-light-on-muted m-0"">↵    Worldwide↵  </p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p tabindex=""0"" data-v-7961f0b4="""" class=""text-light-on-muted m-0"">↵    Worldwide↵  </p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are looking for an experienced data scraping s…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T12:53:18.210929,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021416706687781064']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021416706687781064"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021416706687781064"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span class=""flex-1"" data-v-07c62ee7="""">Data Research Specialist – Find Active Multifamil…</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span class=""flex-1"" data-v-07c62ee7="""">Data Research Specialist – Find Active Multifamil…</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span class=""flex-1"" data-v-07c62ee7="""">Data Research Specialist – Find Active Multifamil…</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T12:55:16.639381,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021416706687781064']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021416706687781064"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021416706687781064"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span class=""flex-1"" data-v-07c62ee7="""">Data Research Specialist – Find Active Multifamil…</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span class=""flex-1"" data-v-07c62ee7="""">Data Research Specialist – Find Active Multifamil…</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span class=""flex-1"" data-v-07c62ee7="""">Data Research Specialist – Find Active Multifamil…</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T12:57:15.842103,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021416706687781064']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021416706687781064"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021416706687781064"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are building a targeted outreach list of activ…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T13:00:03.769395,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021461267222341030']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""2"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021461267222341030"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021461267222341030"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+"
+2026-02-11T13:02:03.814926,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021461267222341030']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""2"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021461267222341030"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021461267222341030"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span data-v-6011f6e4="""">Ongoing project</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    14 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span data-v-6011f6e4="""">Ongoing project</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T13:03:36.377139,acc_0001,python_web,,search,IndexError,list index out of range
+2026-02-11T13:16:37.445365,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 135ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+"
+2026-02-11T13:42:04.800288,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021473792576580821']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021473792576580821"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021473792576580821"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T13:44:04.230170,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021473792576580821']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021473792576580821"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021473792576580821"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T13:46:04.601485,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021473792576580821']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021473792576580821"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021473792576580821"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking an experienced Lead Generation Spe…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T13:48:10.717091,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021473792576580821']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021473792576580821"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021473792576580821"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section eh-i=""true"" impression=""0.5"" data-v-ba9a22f4="""" data-v-07c62ee7="""" data-test=""Features"" data-ev-label-prefix="""" data-ev-sublocation=""page"" class=""air3-card-section text-base-sm"" data-ev-label=""contract_to_hire_tag_impression"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section eh-i=""true"" impression=""0.5"" data-v-ba9a22f4="""" data-v-07c62ee7="""" data-test=""Features"" data-ev-label-prefix="""" data-ev-sublocation=""page"" class=""air3-card-section text-base-sm"" data-ev-label=""contract_to_hire_tag_impression"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <section eh-i=""true"" impression=""0.5"" data-v-ba9a22f4="""" data-v-07c62ee7="""" data-test=""Features"" data-ev-label-prefix="""" data-ev-sublocation=""page"" class=""air3-card-section text-base-sm"" data-ev-label=""contract_to_hire_tag_impression"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T13:52:07.162903,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021473580264288793']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021473580264288793"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021473580264288793"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking a detail-oriented freelancer to ma…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking a detail-oriented freelancer to ma…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking a detail-oriented freelancer to ma…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking a detail-oriented freelancer to ma…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking a detail-oriented freelancer to ma…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T14:17:31.800860,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-11T14:44:07.196250,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021487004377089616']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""2"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021487004377089616"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021487004377089616"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-988901d6="""" class=""span-md-12"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    14 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-988901d6="""" class=""span-md-12"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T14:45:06.498092,acc_0001,python_web,,search,Exception,Không tìm thấy Navigator trở về trang chủ!
+2026-02-11T19:55:50.997416,acc_0001,python_web,,search,IndexError,list index out of range
+2026-02-11T19:57:48.880431,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021558177823900680']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""2"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021558177823900680"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021558177823900680"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <h5 data-v-988901d6="""">Skills and Expertise</h5> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    14 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <h5 data-v-988901d6="""">Skills and Expertise</h5> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T19:59:49.752772,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021558177823900680']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""2"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021558177823900680"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021558177823900680"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <h5 data-v-988901d6="""">Skills and Expertise</h5> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    14 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <h5 data-v-988901d6="""">Skills and Expertise</h5> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T20:03:28.397830,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021551065092454874']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""4"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021551065092454874"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021551065092454874"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Description:↵I’m building a curated outreach list…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Description:↵I’m building a curated outreach list…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Description:↵I’m building a curated outreach list…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Description:↵I’m building a curated outreach list…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Description:↵I’m building a curated outreach list…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T20:07:53.386278,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021571238608370138']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021571238608370138"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021571238608370138"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span class=""flex-1"" data-v-07c62ee7="""">B2B Lead Research and Data Enrichment – Germany, …</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span class=""flex-1"" data-v-07c62ee7="""">B2B Lead Research and Data Enrichment – Germany, …</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span class=""flex-1"" data-v-07c62ee7="""">B2B Lead Research and Data Enrichment – Germany, …</span> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+"
+2026-02-11T20:09:52.635088,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021571238608370138']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021571238608370138"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021571238608370138"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T20:11:51.951178,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021571238608370138']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021571238608370138"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021571238608370138"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am hiring for two structured B2B data projects …</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T20:29:24.797541,acc_0001,python_web,,search,IndexError,list index out of range
+2026-02-11T20:32:14.232896,acc_0001,python_web,,search,TypeError,'NoneType' object is not callable
+2026-02-11T20:34:50.889696,acc_0001,python_web,,search,TimeoutError,"Locator.bounding_box: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div[data-test=\""JobDetailsSliderHeader\""]>button"")
+"
+2026-02-11T20:36:59.448439,acc_0001,python_web,,search,TimeoutError,"Locator.bounding_box: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div[data-test=\""JobDetailsSliderHeader\""]>button"")
+"
+2026-02-11T20:38:24.673202,acc_0001,python_web,,search,ValueError,"empty range in randint(0, -2986)"
+2026-02-11T20:39:51.738619,acc_0001,python_web,,search,ValueError,"empty range in randint(0, -2986)"
+2026-02-11T20:41:21.097823,acc_0001,python_web,,search,ValueError,"empty range in randint(0, -3058)"
+2026-02-11T20:42:49.644169,acc_0001,python_web,,search,ValueError,"empty range in randint(0, -2986)"
+2026-02-11T20:44:17.488005,acc_0001,python_web,,search,ValueError,"empty range in randint(0, -2986)"
+2026-02-11T20:45:45.266089,acc_0001,python_web,,search,ValueError,"empty range in randint(0, -2986)"
+2026-02-11T20:49:03.046379,acc_0001,python_web,,search,TimeoutError,"Locator.bounding_box: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div[data-test=\""JobDetailsSliderHeader\""]>button"")
+"
+2026-02-11T20:53:16.880009,acc_0001,python_web,,search,IndexError,list index out of range
+2026-02-11T20:56:02.105215,acc_0001,python_web,,search,TimeoutError,"Locator.bounding_box: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div[data-test=\""JobDetailsSliderHeader\""]>button"")
+"
+2026-02-11T20:58:47.100305,acc_0001,python_web,,search,TimeoutError,"Locator.bounding_box: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div[data-test=\""JobDetailsSliderHeader\""]>button"")
+"
+2026-02-11T21:00:58.640293,acc_0001,python_web,,search,ValueError,"empty range in randint(0, -3058)"
+2026-02-11T21:02:53.547559,acc_0001,python_web,,search,ValueError,"empty range in randint(0, -2986)"
+2026-02-11T21:04:01.235163,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-11T21:06:32.168856,acc_0001,python_web,,search,TypeError,'>' not supported between instances of 'method' and 'int'
+2026-02-11T21:16:09.954519,acc_0001,python_web,,search,ValueError,"empty range in randint(0, -2986)"
+2026-02-11T21:17:41.838257,acc_0001,python_web,,search,TimeoutError,"Locator.bounding_box: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div[data-test=\""JobDetailsSliderHeader\""]>button"")
+"
+2026-02-11T21:19:03.090316,acc_0001,python_web,,search,IndexError,list index out of range
+2026-02-11T21:23:01.696731,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-11T21:24:16.700231,acc_0001,python_web,,search,IndexError,list index out of range
+2026-02-11T21:31:38.621586,acc_0001,python_web,,search,TimeoutError,"Locator.bounding_box: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div[data-test=\""JobDetailsSliderHeader\""]>button"")
+"
+2026-02-11T21:35:19.722600,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-11T22:00:09.516088,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021597004321401515']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021597004321401515"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021597004321401515"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T22:01:42.070585,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021597004321401515']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021597004321401515"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021597004321401515"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T22:03:12.527262,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021600316147409303']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021600316147409303"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021600316147409303"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p tabindex=""0"" data-v-7961f0b4="""" class=""text-light-on-muted m-0"">↵    Worldwide↵  </p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p tabindex=""0"" data-v-7961f0b4="""" class=""text-light-on-muted m-0"">↵    Worldwide↵  </p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p tabindex=""0"" data-v-7961f0b4="""" class=""text-light-on-muted m-0"">↵    Worldwide↵  </p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T22:04:43.906263,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021600316147409303']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021600316147409303"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021600316147409303"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T22:06:15.644124,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021600316147409303']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021600316147409303"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021600316147409303"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T22:07:45.596264,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021600316147409303']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021600316147409303"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021600316147409303"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-7961f0b4="""" data-v-07c62ee7="""" data-test=""LocationLabel"" class=""d-inline-flex align-items-center text-base-sm"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">I am looking for someone who can help me automate…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T22:09:58.784032,acc_0001,python_web,,search,TimeoutError,"Locator.bounding_box: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div[data-test=\""JobDetailsSliderHeader\""]>button"")
+"
+2026-02-11T22:11:24.950779,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021597004321401515']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""2"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021597004321401515"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021597004321401515"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Hi, ↵I am looking for someone who can collect;↵1.…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <section data-v-07c62ee7="""" class=""air3-card-section"">…</section> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T22:40:50.735003,acc_0001,python_web,,search,TypeError,"string indices must be integers, not 'str'"
+2026-02-11T22:43:24.435797,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021604248650468054']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021604248650468054"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021604248650468054"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Go here: https://trends.builtwith.com/websitelist…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Go here: https://trends.builtwith.com/websitelist…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Go here: https://trends.builtwith.com/websitelist…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Go here: https://trends.builtwith.com/websitelist…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">Go here: https://trends.builtwith.com/websitelist…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-11T22:53:28.348550,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-11T23:08:34.735942,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-11T23:12:04.387754,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-11T23:20:17.048991,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-11T23:20:42.122797,acc_0001,python_web,,search,Exception,Cannot get viewport size
+2026-02-12T00:28:07.401827,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+    - waiting for"" https://www.upwork.com/nx/search/jobs/?q=Data%20Scraping"" navigation to finish...
+    - navigated to ""https://www.upwork.com/nx/search/jobs/?q=Data%20Scraping""
+"
+2026-02-12T06:37:24.752927,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-12T06:38:24.064521,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-12T06:39:24.087339,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-12T06:45:23.931100,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-12T06:48:04.416437,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-12T06:53:28.949258,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-12T06:55:20.495975,acc_0001,python_web,,search,TargetClosedError,"Mouse.move: Target page, context or browser has been closed"
+2026-02-12T10:51:44.961465,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-12T10:52:31.188134,acc_0001,python_web,,search,TargetClosedError,"Mouse.move: Target page, context or browser has been closed"
+2026-02-12T10:54:31.163813,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported2026-02-12T11:05:02.062460,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-12T11:12:23.876890,acc_0001,python_web,,search,TargetClosedError,"Locator.bounding_box: Target page, context or browser has been closed"
+2026-02-12T11:13:10.565687,acc_0001,python_web,,search,TargetClosedError,"Mouse.move: Target page, context or browser has been closed"
+2026-02-12T11:13:54.903434,acc_0001,python_web,,search,ProgrammingError,Error binding parameter 8: type 'dict' is not supported
+2026-02-12T11:20:19.075500,acc_0001,python_web,,search,OperationalError,15 values for 14 columns
+2026-02-12T12:54:24.743953,acc_0001,python_web,,search,TypeError,'JobListParser' object is not iterable
+2026-02-12T12:54:59.429957,acc_0001,python_web,,search,TypeError,'JobListParser' object is not iterable
+2026-02-12T12:55:34.343162,acc_0001,python_web,,search,TypeError,'JobListParser' object is not iterable
+2026-02-12T12:56:08.792264,acc_0001,python_web,,search,TypeError,'JobListParser' object is not iterable
+2026-02-12T12:56:42.230073,acc_0001,python_web,,search,TypeError,'JobListParser' object is not iterable
+2026-02-12T12:57:15.435723,acc_0001,python_web,,search,TypeError,'JobListParser' object is not iterable
+2026-02-12T13:02:21.962050,acc_0001,python_web,,search,TimeoutError,"Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""article[data-ev-job-uid='2021820937242025376']"")
+    - locator resolved to <article eh-i=""true"" impression=""0.5"" data-v-64a3fdd4="""" data-test=""JobTile"" data-ev-position=""1"" data-ev-label-prefix="""" data-ev-page_number=""1"" data-test-key=""2021820937242025376"" data-ev-sublocation=""search_results"" data-ev-job-uid=""2021820937242025376"" data-ev-label=""search_results_impression"" data-ev-job-is_sts_vector_search_result=""null"" class=""job-tile cursor-pointer px-md-4 air3-card air3-card-list px-4x visited"">…</article>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class=""air3-fullscreen-container"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class=""air3-fullscreen-container"">…</div> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    4 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking a skilled web scraper developer (R…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking a skilled web scraper developer (R…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <svg role=""img"" fill=""none"" aria-hidden=""true"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">…</svg> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p data-v-63470d6f="""" class=""text-body-sm multiline-text"">We are seeking a skilled web scraper developer (R…</p> from <div size=""md"" modalname="""" theme=""air-3-0"" isrouted=""true"" data-v-74022bd3="""" data-v-016a99fa="""" usebodycomponent=""true"" modaltitle=""Job Details"" modalopts=""[object Object]"" data-ev-sublocation=""!slider"" data-fullscreen-placeholder="""" class=""details-slider is-slider-fullscreen air3-fullscreen-element"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+"
+2026-02-12T13:03:08.100120,acc_0001,python_web,,search,TargetClosedError,"Mouse.move: Target page, context or browser has been closed"
+2026-02-12T13:04:58.516263,acc_0001,python_web,,search,TargetClosedError,"Mouse.move: Target page, context or browser has been closed"
+2026-02-12T14:09:19.327485,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-12T14:42:11.331733,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-12T14:43:01.825661,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-12T14:44:54.737420,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-12T14:47:18.122169,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-12T16:17:02.606063,acc_0001,python_web,,search,TargetClosedError,"Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+    - waiting for"" https://www.upwork.com/nx/search/jobs/?q=Data%20Scraping"" navigation to finish...
+    - navigated to ""https://www.upwork.com/nx/search/jobs/?q=Data%20Scraping""
+"
+2026-02-12T20:24:07.378981,acc_0001,python_web,,search,Exception,Cannot get bounding box
+2026-02-12T22:17:05.614825,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+    - waiting for"" https://www.upwork.com/nx/search/jobs/?q=Data%20extraction"" navigation to finish...
+    - navigated to ""https://www.upwork.com/nx/search/jobs/?q=Data%20extraction""
+"
+2026-02-12T23:08:39.021017,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-12T23:09:08.196220,acc_0001,python_web,,search,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-12T23:25:01.810370,acc_0001,python_web,,search,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-13T00:36:44.241183,acc_0001,python_web,,main_loop,AttributeError,'CrawlerMainLoop' object has no attribute 'load_account_keywords'
+2026-02-13T00:38:49.278999,acc_0001,python_web,,main_loop,AttributeError,'JobRepository' object has no attribute 'upsert_job'
+2026-02-13T00:40:54.054635,acc_0001,python_web,,main_loop,AttributeError,'dict' object has no attribute 'to_db_tuple'
+2026-02-13T00:42:50.410901,acc_0001,python_web,,main_loop,AttributeError,'dict' object has no attribute 'to_db_tuple'
+2026-02-13T00:43:57.169862,acc_0001,python_web,,main_loop,AttributeError,'dict' object has no attribute 'to_db_tuple'
+2026-02-13T00:48:42.977998,acc_0001,python_web,,main_loop,ValueError,"empty range in randint(0, -918)"
+2026-02-13T00:49:55.559068,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T00:50:54.169346,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T01:00:22.531797,acc_0001,python_web,,main_loop,TypeError,object of type 'int' has no len()
+2026-02-13T01:01:28.603730,acc_0001,python_web,,main_loop,TypeError,object of type 'int' has no len()
+2026-02-13T07:03:36.201501,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T07:30:49.490101,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T07:38:39.668409,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T07:40:27.230072,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T07:45:10.523419,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T07:46:29.727848,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T07:48:16.632877,acc_0001,python_web,,main_loop,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-13T07:49:19.037592,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T11:29:55.210422,acc_0001,python_web,,main_loop,Exception,Không tìm thấy Navigator trở về trang chủ!
+2026-02-13T14:03:25.951408,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T14:17:01.939005,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa
+2026-02-13T20:21:46.401768,acc_0001,python_web,,main_loop,Exception,Không tìm thấy Navigator trở về trang chủ!
+2026-02-14T01:07:03.627142,acc_0001,python_web,,main_loop,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+    - waiting for"" https://www.upwork.com/nx/search/jobs/?q=Data%20Scraping"" navigation to finish...
+    - navigated to ""https://www.upwork.com/nx/search/jobs/?q=Data%20Scraping""
+"
+2026-02-14T01:20:37.297856,acc_0001,python_web,,main_loop,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-14T02:49:49.157935,acc_0001,python_web,,main_loop,TimeoutError,"Locator.scroll_into_view_if_needed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""[aria-labelledby=\""jobs-sort-dropdown\""]"")
+"
+2026-02-14T03:40:01.908126,acc_0001,python_web,,main_loop,Exception,Không tìm thấy search input để nhập từ khóa

@@ -68,4 +68,5 @@ def wait_for_action(condition_func, action_func, timeout=15, interval=1, action_
         if condition_func():
             print(f"✔️ Thực hiện {action_name} thành công!")
             return True
+        time.sleep(1)
     return False

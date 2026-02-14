@@ -1,5 +1,5 @@
 import time
-from src.utils.dom_checked import can_interact, is_in_viewport, wait_for_action
+from src.utils.dom_checked import can_interact, is_in_viewport, wait_for_action, wait_until_loaded
 from src.utils.human_actions import HumanActions
 
 def back_to_homepage(page):
@@ -11,15 +11,18 @@ def back_to_homepage(page):
         raise Exception("Không tìm thấy Navigator trở về trang chủ!")   
 
         
-    while is_in_viewport(home_locator) is False:
-        home_locator.scroll_into_view_if_needed()
+    try:
+        home_locator.scroll_into_view_if_needed(timeout=5000)
+    except:
+        page.go_back()
+
     
     if not wait_for_action(lambda: '/find-work/' in page.url, lambda:human_actions.human_click(home_locator), timeout=60, interval=5):
         raise Exception("Đã cố gắn nhưng không thể chuyển tra!")   
 
-    while can_interact(page.locator('input[placeholder="Search for jobs"]')) is False and can_interact(page.locator('[data-test="carousel-slide"]')) is False:
-        print("Chờ về trang chủ!")
-        time.sleep(1)
+    is_loaded ='find-work' not in page.url or can_interact(page.locator('input[placeholder="Search for jobs"]')) is False or can_interact(page.locator('[data-test="carousel-slide"]')) is False
+    if not wait_until_loaded(lambda: is_loaded, timeout=30, interval=5, mess="⏳Chờ load trang chủ!"):
+        raise Exception("Không load được trang chủ!")
 
 def chose_dropdown_filter(page):
     human_actions = HumanActions(page)

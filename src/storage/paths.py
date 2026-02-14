@@ -33,3 +33,6 @@ class StoragePaths:
     
     def keyword_checkpoint(self, account, platform, crawl_date):
         return (self.day_dir(account, platform, crawl_date) / "keyword_checkpoint.json")
+    
+    def database(self, path = 'upwork_database.db'):
+        return self.base / path

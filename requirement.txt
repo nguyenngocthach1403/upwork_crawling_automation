@@ -1,0 +1,8 @@
+pandas
+playwright
+BeautifulSoup4
+orjson
+openpyxl
+requests
+telebot
+pytest

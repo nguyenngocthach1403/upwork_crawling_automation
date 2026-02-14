@@ -1,0 +1,44 @@
+[
+  {
+    "job_id": "2021182603602315464",
+    "title": "B2B Data Infrastructure & Enrichment Specialist",
+    "posted_text": "17 minutes ago",
+    "posted_minutes_ago": 17,
+    "location": "Worldwide",
+    "description": "We are looking for a B2B Data Infrastructure & Enrichment Specialist to design, build, and maintain a scalable system for continuous B2B data acquisition and management. This is not a one-off list building role. You will be responsible for creating and managing an end-to-end data supply chain that fuels our outbound marketing, sales outreach, and growth initiatives. You will play a key role in ensuring our teams always have access to accurate, enriched, and highly targeted prospect data aligned with our Ideal Customer Profiles (ICP). What You’ll Be Responsible For - Data Infrastructure & Systems - Design and implement scalable infrastructure for ongoing B2B data collection - Build systems that allow us to turn data collection and enrichment workflows on/off as required - Develop repeatable processes for sourcing, storing, and updating prospect data - Identify and integrate data tools, APIs, and automation platforms where needed - Data Sourcing & List Development - Source broad, high-volume prospect datasets aligned with defined ICPs - Build initial data pools across target industries and decision-maker roles - Continuously expand and improve data coverage across new markets and sectors Enrich datasets with key attributes such as: - Contact information - Company firmographics - Technographic data - Intent and behavioural signals Segment data to support multi-channel outreach strategies including email, paid media, and sales engagement Maintain high data accuracy and deliverability standards Data Quality & Optimisation - Monitor data performance and accuracy - Identify and remove low-quality or duplicate records - Continuously refine targeting criteria to improve outreach results - Work closely with marketing and sales teams to optimise data performance Essential Skills & Experience - Experience sourcing and building B2B prospect databases - Strong understanding of ICP development and targeting strategy - Experience with data enrichment platforms and contact verification tools - Knowledge of CRM and sales engagement platforms - Strong analytical and problem-solving skills - Ability to design scalable and repeatable data processes Highly Desirable - Experience building automated data workflows - Familiarity with scraping tools, APIs, or automation platforms - Understanding of outbound sales and marketing data requirements - Experience working with multi-channel outreach datasets What Success Looks Like in This Role - A scalable, controllable data acquisition infrastructure - Consistent supply of high-quality, enriched B2B prospect data - Improved targeting accuracy and outreach performance - Reliable data pipelines that support growth across multiple campaigns Respond with \"Convrsion\" at the top of your proposal so we know you read this thouroughly.",
+    "job_type": "hourly",
+    "hourly_budget": {
+      "min": 10.0,
+      "max": 10.0
+    },
+    "fixed_budget": null,
+    "budget": {
+      "type": "hourly",
+      "min": 10.0,
+      "max": 10.0
+    },
+    "experience_level": "intermediate",
+    "skills": [
+      "Data Scraping",
+      "Lead Generation",
+      "Data Entry",
+      "List Building",
+      "Data Segmentation"
+    ],
+    "activities": {
+      "proposals": "5 to 10",
+      "interviewing": "0",
+      "invites_sent": "0",
+      "unanswered_invites": "0"
+    },
+    "url": "https://www.upwork.com/jobs/~022021182603602315464",
+    "client": {
+      "rating": "\n      5.00 of 10 reviews\n    ",
+      "location": "United Arab Emirates",
+      "posted_jobs": "9 jobs posted",
+      "hire_rate": "100% hire rate, 1 open job",
+      "total_hires": "24 hires, 10 active",
+      "total_spent": "$47Ktotal spent"
+    }
+  }
+]
